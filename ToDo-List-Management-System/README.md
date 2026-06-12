@@ -27,7 +27,7 @@ The application provides the following functionalities:
 - Exit the application
 
 ## Author
-Siriharshitha Manda
+ Siri Harshitha Manda
 
 ## Internship Program
 DecodeLabs Internship Program
