@@ -1,8 +1,3 @@
-# ==========================================
-# TO-DO LIST MANAGEMENT SYSTEM
-# Project 1 - DecodeLabs Internship
-# ==========================================
-
 tasks = []
 next_id = 1
 
